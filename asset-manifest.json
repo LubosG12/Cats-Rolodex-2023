@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.4e490f6b.css",
-    "main.js": "/static/js/main.b1627ce3.js",
-    "static/js/787.e4e9b7ff.chunk.js": "/static/js/787.e4e9b7ff.chunk.js",
-    "index.html": "/index.html",
-    "main.4e490f6b.css.map": "/static/css/main.4e490f6b.css.map",
-    "main.b1627ce3.js.map": "/static/js/main.b1627ce3.js.map",
-    "787.e4e9b7ff.chunk.js.map": "/static/js/787.e4e9b7ff.chunk.js.map"
+    "main.css": "/cats-rolodex-2023/static/css/main.4e490f6b.css",
+    "main.js": "/cats-rolodex-2023/static/js/main.16eb8047.js",
+    "static/js/787.e4e9b7ff.chunk.js": "/cats-rolodex-2023/static/js/787.e4e9b7ff.chunk.js",
+    "index.html": "/cats-rolodex-2023/index.html",
+    "main.4e490f6b.css.map": "/cats-rolodex-2023/static/css/main.4e490f6b.css.map",
+    "main.16eb8047.js.map": "/cats-rolodex-2023/static/js/main.16eb8047.js.map",
+    "787.e4e9b7ff.chunk.js.map": "/cats-rolodex-2023/static/js/787.e4e9b7ff.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4e490f6b.css",
-    "static/js/main.b1627ce3.js"
+    "static/js/main.16eb8047.js"
   ]
 }
